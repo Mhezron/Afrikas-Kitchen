@@ -17,6 +17,7 @@ const Home = () => {
         <div className=" mx-10 mt-6 flex items-center" >
             <HiLocationMarker size="25" classname=""/>
           <input className="py-3 px-28" placeholder="Enter your delivery address"></input>
+          <button className="px-12 py-3  color-white flex items-center ">Deliver now</button>
         </div>
       </div>
     </div>
